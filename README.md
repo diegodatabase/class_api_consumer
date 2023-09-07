@@ -1,9 +1,9 @@
 # class_api_consumer
 
 
-# Análise de Usabilidade e Comentários:
+## Análise de Usabilidade e Comentários:
 
-# Organização:
+### Organização:
 
 O código está bem organizado com uma função main() separada, que é um padrão comum para scripts em Python. Isso ajuda a separar a lógica de execução de alto nível de configurações e detalhes.
 Configuração Centralizada:
